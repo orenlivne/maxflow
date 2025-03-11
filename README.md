@@ -1,9 +1,7 @@
 # Fast Max Flow Solver (Experimental)
 
 ## Overview
-
 This repo contains some example notebooks to test some ideas about fast solvers of the maximum flow problem.
----
 
 ## 1. Installation
 1. Install the conda environment:
@@ -19,7 +17,6 @@ conda activate maxflow
 ```sh
 pytest
 ```
----
 
 ## Contributing
 
