@@ -1,7 +1,7 @@
 # Max Flow Solver Experiments
 
 ## Overview
-This repo contains some example notebooks to test some ideas about fast solvers of the maximum flow problem.
+This repo contains some example notebooks to understand existing maximum flow solvers and test some initial ideas about new ones.
 
 ## 1. Installation
 1. Install the conda environment:
