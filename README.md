@@ -1,4 +1,4 @@
-# Fast Max Flow Solver (Experimental)
+# Max Flow Solver Experiments
 
 ## Overview
 This repo contains some example notebooks to test some ideas about fast solvers of the maximum flow problem.
